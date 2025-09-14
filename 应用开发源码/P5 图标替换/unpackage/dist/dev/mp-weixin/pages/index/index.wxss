@@ -1,0 +1,38 @@
+
+.wrap {
+	padding: 30rpx;
+}
+.dev-area {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+.dev-card {
+	height:150rpx;
+	width: 320rpx;
+	border-radius: 30rpx;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	margin-top: 30rpx;
+	box-shadow: 0 0 15rpx #ccc;
+}
+.dev-name{
+	font-size: 20rpx;
+	color: #8f8f94;
+	text-align: center;
+}
+.dev-data{
+	font-size: 50rpx;
+	text-align: center;
+}
+.dev-log {
+	height: 70rpx;
+	width: 70rpx;
+	margin-top: 10rpx;
+}
+.title {
+	font-size: 36rpx;
+	color: #8f8f94;
+}
+
